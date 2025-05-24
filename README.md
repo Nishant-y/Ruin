@@ -1,4 +1,4 @@
 # Ruin
 First project.
 <br>
-Author-Nishant
+Author-Nishant Yadav
